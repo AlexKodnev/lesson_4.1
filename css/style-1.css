@@ -1,0 +1,22 @@
+@import "null.css";
+@import url("https://fonts.googleapis.com/css2?family=Lato:wght@400;700;900&display=swap");
+
+body {
+	font-family: Lato;
+	font-size: 16px;
+}
+h1 {
+	font-weight: 900;
+	font-size: 46px;
+}
+.bold {
+	font-size: 20px;
+	font-weight: 700;
+	line-height: 1.5;
+}
+.normal {
+	line-height: 1.6;
+}
+ul > li {
+	line-height: 1.6;
+}
